@@ -7,6 +7,8 @@ I'm a computer Science Student at Evora University who's fascinated about Web de
 ## How to find me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eunice-devesse)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eunice_tiago)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.instagram.com/eunice_tiago](https://www.youtube.com/channel/UCKh_jIkNAUxlZfkGSZr2eng))
+
 
 ## Dashboard 
 
